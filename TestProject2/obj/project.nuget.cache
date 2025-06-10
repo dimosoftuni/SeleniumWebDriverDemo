@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/iF+zpbHr4=",
+  "dgSpecHash": "g8XbwbDsfVs=",
   "success": true,
-  "projectFilePath": "c:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject2\\TestProject2.csproj",
+  "projectFilePath": "C:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimof\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\dimof\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\dimof\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\dimof\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
     "C:\\Users\\dimof\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
-    "C:\\Users\\dimof\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.6100\\selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
+    "C:\\Users\\dimof\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.6800\\selenium.webdriver.chromedriver.137.0.7151.6800.nupkg.sha512",
     "C:\\Users\\dimof\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
