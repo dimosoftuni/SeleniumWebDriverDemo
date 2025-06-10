@@ -1401,11 +1401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\TestProject3.csproj",
+      "projectUniqueName": "c:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\TestProject3.csproj",
       "projectName": "TestProject3",
-      "projectPath": "C:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\TestProject3.csproj",
+      "projectPath": "c:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\TestProject3.csproj",
       "packagesPath": "C:\\Users\\dimof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\obj\\",
+      "outputPath": "c:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

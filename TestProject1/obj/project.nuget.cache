@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2HL8XlFj1s=",
+  "dgSpecHash": "Q1nWm6KaGKM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "c:\\Users\\dimof\\OneDrive\\Desktop\\Tasks\\SeleniumWebDriverDemo\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimof\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\dimof\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
