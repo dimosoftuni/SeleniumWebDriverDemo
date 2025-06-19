@@ -28,12 +28,12 @@ pipeline {
                         bat 'dotnet test TestProject1 --no-build --verbosity normal'
                     }
                 }
-                stage('Project1 UI tests') {
+                stage('Project2 UI tests') {
                     steps {
                         bat 'dotnet test TestProject2 --no-build --verbosity normal'
                     }
                 }
-                stage('Project1 UI tests') {
+                stage('Project3 UI tests') {
                     steps {
                         bat 'dotnet test TestProject3 --no-build --verbosity normal'
                     }
